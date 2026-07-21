@@ -48,6 +48,8 @@ Projeyi kendi ortamınızda test etmek için:
    ```bash
    git clone [https://github.com/KULLANICI_ADINIZ/DEPO_ADINIZ.git](https://github.com/KULLANICI_ADINIZ/DEPO_ADINIZ.git)
 
+🙏 Bu projeyi geliştirirken Onur Akkösenin https://medium.com/deep-learning-turkiye/uzun-k%C4%B1sa-vadeli-bellek-lstm-b018c07174a3 linkli medium içeriğinden yararlandım kendisine teşekkür ederim
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [EN]
 # 📈 Deep Learning-Based Financial Time Series Forecasting (PyTorch LSTM)
@@ -94,3 +96,4 @@ To test the project in your own environment:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
+🙏 While developing this project, I benefited from Onur Akköse's Medium article at https://medium.com/deep-learning-turkiye/uzun-k%C4%B1sa-vadeli-bellek-lstm-b018c07174a3, and I would like to thank him.
